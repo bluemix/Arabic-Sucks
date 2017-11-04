@@ -5,15 +5,14 @@
 </p>
 
 
-> Please help contribute to the list, any issues are welcomed 🙏
-
-
 A list of poorly-handled Arabic language rendering in mobile, web, and desktop applications.
 
 🔸 Arabic language has about 100 millions of users on the Internet <sup>[*](http://www.internetworldstats.com/stats5.htm)</sup><br>
 🔸 written (and direction) from right-to-left (RTL) and _not_ from left-to-right (LTR)<br>
-🔸 has continus word characters, _not_ splitted<br>
+🔸 has continus word characters, _not all_ are splitted<br>
 🔸 [UTF BIDI specs](http://unicode.org/reports/tr9/)<br>
+
+> Please help contribute to the list, any issues are welcomed 🙏
 
 
 orange 🔸 rounded square = correct rendering
