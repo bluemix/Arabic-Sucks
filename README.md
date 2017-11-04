@@ -1,7 +1,9 @@
 
-<center>
-![Arabic Sucks](images/arabic-sucks.png | width=100)
-</center>
+
+<p align="center">
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/arabic-sucks.png" alt="arabic sucks" title="Arabic Sucks" width="300"/>
+</p>
+
 
 
 # Arabic-Sucks
