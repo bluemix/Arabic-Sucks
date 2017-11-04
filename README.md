@@ -19,7 +19,7 @@ A list of poorly-handled Arabic language rendering in mobile, web, and desktop a
 ## Mobile - iOS
 ### Netflix (9.42.1)
 
-<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/netflix-ios-arabic-sucks-correct.PNG"  alt="netflix arabic sucks" title="netflix arabic sucks" width="500">
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/netflix-ios-arabic-sucks-correct.png"  alt="netflix arabic sucks" title="netflix arabic sucks" width="500">
 
 
 
