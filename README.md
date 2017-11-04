@@ -32,8 +32,8 @@ A list of poorly-handled Arabic language rendering in mobile, web, and desktop a
 
 
 ### WebKitGtk (2.19.1)
-![WebKitGtk](images/WebKitGtk-arabic-handling.png)<sup>[*](https://twitter.com/KhaledGhetas/status/921826612496224261)</sup>
 
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/WebKitGtk-arabic-handling.png"  alt="WebKitGtk arabic sucks" title="WebKitGtk arabic sucks" width="500"> <sup>[*](https://twitter.com/KhaledGhetas/status/921826612496224261)</sup>
 
 ### MacDown (0.7.1)
 ![MacDown](images/macdown-arabic-sucks.png)
