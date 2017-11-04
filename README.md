@@ -17,7 +17,7 @@ A list of poorly-handled Arabic language rendering in mobile, web, and desktop a
 > Please help contribute to the list, any issues are welcomed 🙏
 
 ## Mobile - iOS
-### Netflix
+### Netflix (9.42.1)
 
 <img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/netflix-ios-arabic-sucks-correct.PNG"  alt="netflix arabic sucks" title="netflix arabic sucks" width="500">
 
@@ -26,7 +26,8 @@ A list of poorly-handled Arabic language rendering in mobile, web, and desktop a
 ## Desktop, macOS
 
 ### Visual Studio Code (1.17.2)
-[Support for rtl languages](https://github.com/Microsoft/vscode/issues/11770) open since Sep 9, 2016 
+[Support for rtl languages](https://github.com/Microsoft/vscode/issues/11770) open since Sep 9, 2016. <br>
+
 <img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/vscode-version-1.17.2-correct-side-by-side.png"  alt="Visual Studio arabic sucks" title="Visual Studio arabic sucks" width="500">
 
 
