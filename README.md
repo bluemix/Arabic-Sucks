@@ -38,7 +38,8 @@ orange 🔸 rounded square = correct rendering
 <img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/WebKitGtk-arabic-handling.png"  alt="WebKitGtk arabic sucks" title="WebKitGtk arabic sucks" width="500"> <sup>[*](https://twitter.com/KhaledGhetas/status/921826612496224261)</sup>
 
 ### MacDown (0.7.1)
-![MacDown](images/macdown-arabic-sucks.png)
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/macdown-arabic-sucks-correct.png"  alt="MacDown arabic sucks" title="MacDown arabic sucks" width="500">
+
 
 
 ### Affinity Photo (1.6.6)
