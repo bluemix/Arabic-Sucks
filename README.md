@@ -6,13 +6,12 @@
 
 
 
-# Arabic-Sucks
-A list of poorly handling of Arabic language in mobile, web, and desktop applications.
+A list of poorly-handled Arabic language in mobile, web, and desktop applications.
 
-Arabic language has millions of users on the Internet
-
-
-Arabic language is written from right-to-left (RTL), 
+🔸 Arabic language arount 100 millions of users on the Internet <sup>[*](http://www.internetworldstats.com/stats5.htm)</sup><br>
+🔸 written from right-to-left (RTL) and not the reverse (LTR)<br>
+🔸 has continus word characters, not splitted<br>
+🔸 [UTF specs](http://unicode.org/reports/tr9/)<br>
 
 Arabic issues
 * rendered as LTR
