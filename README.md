@@ -5,6 +5,8 @@
 </p>
 
 
+> Please help contribute to the list, any issues are welcomed 🙏
+
 
 A list of poorly-handled Arabic language rendering in mobile, web, and desktop applications.
 
@@ -14,7 +16,7 @@ A list of poorly-handled Arabic language rendering in mobile, web, and desktop a
 🔸 [UTF BIDI specs](http://unicode.org/reports/tr9/)<br>
 
 
-> Please help contribute to the list, any issues are welcomed 🙏
+orange 🔸 rounded square = correct rendering
 
 ## Mobile - iOS
 ### Netflix (9.42.1)
