@@ -6,48 +6,42 @@
 
 
 
-A list of poorly-handled Arabic language in mobile, web, and desktop applications.
+A list of poorly-handled Arabic language rendering in mobile, web, and desktop applications.
 
-🔸 Arabic language arount 100 millions of users on the Internet <sup>[*](http://www.internetworldstats.com/stats5.htm)</sup><br>
-🔸 written from right-to-left (RTL) and not the reverse (LTR)<br>
-🔸 has continus word characters, not splitted<br>
-🔸 [UTF specs](http://unicode.org/reports/tr9/)<br>
+🔸 Arabic language has about 100 millions of users on the Internet <sup>[*](http://www.internetworldstats.com/stats5.htm)</sup><br>
+🔸 written (and direction) from right-to-left (RTL) and _not_ from left-to-right (LTR)<br>
+🔸 has continus word characters, _not_ splitted<br>
+🔸 [UTF BIDI specs](http://unicode.org/reports/tr9/)<br>
 
-Arabic issues
-* rendered as LTR
-* disconnected characters
-*  
 
+> Please help contribute to the list, any issues are welcomed 🙏
 
 ## Mobile - iOS
 ### Netflix
 
-iOS 
-![WebKitGtk](images/netflix-ios-arabic-sucks.PNG)
-
-## Mobile - Android
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/netflix-ios-arabic-sucks-correct.PNG"  alt="netflix arabic sucks" title="netflix arabic sucks" width="500">
 
 
-## Desktop
-### Visual Studio Code
-[issue N]() still open
-![VisualStudio Code wrong Arabic direction](images/vscode-version-1.17.2.png)
 
-### WebKitGtk
+## Desktop, macOS
 
-[tweet](https://twitter.com/KhaledGhetas/status/921826612496224261)
-
-![WebKitGtk](images/WebKitGtk-arabic-handling.png)
+### Visual Studio Code (1.17.2)
+[Support for rtl languages](https://github.com/Microsoft/vscode/issues/11770) open since Sep 9, 2016 
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/vscode-version-1.17.2-correct-side-by-side.png"  alt="Visual Studio arabic sucks" title="Visual Studio arabic sucks" width="500">
 
 
-### MacDown
+### WebKitGtk (2.19.1)
+![WebKitGtk](images/WebKitGtk-arabic-handling.png)<sup>[*](https://twitter.com/KhaledGhetas/status/921826612496224261)</sup>
+
+
+### MacDown (0.7.1)
 ![MacDown](images/macdown-arabic-sucks.png)
 
 
-### Affinity Photo
-![Affinity Photo](images/Affinity-Photo-Arabic-sucks.png)
+### Affinity Photo (1.6.6)
+<img src="https://github.com/bluemix/Arabic-Sucks/raw/master/images/Affinity_Photo-Arabic_sucks-correct.png"  alt="Affinity Photo arabic sucks" title="Affinity Photo arabic sucks" width="500">
 
-### Sublime
-[issue N]() still open
 
-### 
+### Sublime (1.17.2)
+[ [RTL] Sublime Text and Arabic, Persian, Hebrew languages #109 ](https://github.com/SublimeTextIssues/Core/issues/109) open since Jul 22, 2013.
+
