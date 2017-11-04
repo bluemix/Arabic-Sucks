@@ -1,6 +1,6 @@
 
 <center>
-![Arabic Sucks](images/arabic-sucks.png)  <!-- .element width="200px" -->
+![Arabic Sucks](images/arabic-sucks.png | width=100)
 </center>
 
 
